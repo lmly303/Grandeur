@@ -14,4 +14,4 @@ This is a restaurant website frontend built using React. The website includes va
 
 ## Visit the App
 
-You can visit the deployed version of the Path Finder app [here](https://thepathfinder-10a2h6rka-shrey-karirias-projects.vercel.app)
+You can visit the deployed version of the Path Finder app [here](grandeur-shrey-karirias-projects.vercel.app)
