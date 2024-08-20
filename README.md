@@ -1,6 +1,6 @@
 # Grandeur Restaurant Website
 
-This is a restaurant website frontend built using React. The website includes various sections such as Home, About, Menu, Awards, Chef's Words, Address, and Photo Gallery to showcase the restaurant's offerings and ambiance.
+Grandeur is a visually appealing and fully responsive restaurant website built with React. It offers a seamless user experience with sections including Home, About, Menu, Awards, Chef's Words, Address, and Photo Gallery. The site features an elegant design and interactive elements to showcase the restaurant's offerings and ambiance. Ideal for restaurants looking to establish an online presence, Grandeur provides a polished and engaging interface for users to explore.
 
 
 ## Features
