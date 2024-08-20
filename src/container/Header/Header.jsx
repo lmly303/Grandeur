@@ -9,7 +9,7 @@ const Header = () => (
     <div className="app__wrapper_info">
       <SubHeading title="Chase the new flavour"/>
       <h1 className='app__header-h1'>The key to find dinning</h1>
-      <p className="p__opensans" style={{margin:'2rem 0'}}>Let it be the land, but let us live in old age. Seasoning of the disease is easier than chocolate. And, in the end, there is a lot of ground</p>
+      <p className="p__opensans" style={{margin:'2rem 0'}}>Welcome to Grandeur, where culinary excellence meets an unforgettable dining experience. Explore our menu, discover our story, and immerse yourself in the ambiance of our restaurant.</p>
       <button className="custom__button" type='button' >Explore</button>
     </div>
     <div className="app__wrapper_img">

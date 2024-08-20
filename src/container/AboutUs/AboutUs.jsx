@@ -14,7 +14,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_about">
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra adipiscing ultrices vulputate posuere tristique. In sed odio nec aliquet eu proin mauris et.</p>
+        <p className="p__opensans">At Grandeur, we are passionate about delivering exceptional food and exceptional service. Our team of skilled chefs and dedicated staff work tirelessly to ensure every guest enjoys a memorable dining experience.</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
 
@@ -25,7 +25,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat. Risus placerat morbi volutpat habitasse interdum mi aliquam In sed odio nec aliquet.</p>
+        <p className="p__opensans">Founded with a love for fine dining, Grandeur has been serving delectable dishes and creating delightful memories since 1995. Our rich history is rooted in tradition, innovation, and a commitment to excellence.</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>
