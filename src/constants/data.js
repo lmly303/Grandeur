@@ -59,23 +59,23 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmand',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Michelin Star',
+    subtitle: 'Awarded for exceptional quality and consistency in our cuisine.',
   },
   {
     imgUrl: images.award01,
-    title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Best New Restaurant',
+    subtitle: 'Named "Best New Restaurant" by Food & Wine Magazine .',
   },
   {
     imgUrl: images.award05,
-    title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Top Chef Award',
+    subtitle: 'For our chef’s creativity, skill, and dedication to exceptional dishes.',
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Gold Plate Award',
+    subtitle: 'For excellence in food quality and service.',
   },
 ];
 
