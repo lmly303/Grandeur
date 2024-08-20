@@ -1,5 +1,6 @@
 import React from 'react';
-import { BsInstagram, BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs';
+import {FaInstagram } from 'react-icons/fa';
+import {BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs';
 
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
@@ -31,7 +32,7 @@ const Gallery = () => {
           {[images.gallery01, images.gallery02, images.gallery03, images.gallery04].map((image, index) => (
             <div className="app__gallery-images_card flex__center" key={`gallery_image-${index + 1}`}>
               <img src={image} alt="gallery_image" />
-              <BsInstagram className="gallery__image-icon" />
+              <FaInstagram className="gallery__image-icon" />
             </div>
           ))}
         </div>
