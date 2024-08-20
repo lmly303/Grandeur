@@ -14,4 +14,4 @@ Grandeur is a visually appealing and fully responsive restaurant website built w
 
 ## Visit the App
 
-You can visit the deployed version of the Path Finder app [here](https://grandeur-shrey-karirias-projects.vercel.app/)
+You can visit the deployed version of the Path Finder app [here](https://grandeur-eta.vercel.app/)
