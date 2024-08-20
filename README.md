@@ -1,37 +1,17 @@
-# Grandeur - Restaurant Website
+# Grandeur Restaurant Website
 
-![Grandeur Logo](./path-to-your-logo/logo.png)
+This is a restaurant website frontend built using React. The website includes various sections such as Home, About, Menu, Awards, Chef's Words, Address, and Photo Gallery to showcase the restaurant's offerings and ambiance.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Overview
-
-**Grandeur** is a modern and responsive restaurant website built with React. The website showcases the restaurant's menu, working hours, and other essential details, providing a seamless experience for users to explore and interact with.
 
 ## Features
+- **Home**: Welcome visitors with an overview of the restaurant.
+- **About**: Share the restaurant's story and philosophy.
+- **Menu**: Display the food and drink options available at the restaurant.
+- **Awards**: Highlight any awards or recognitions received.
+- **Chef's Words**: Showcase messages from the chef or staff.
+- **Photo Gallery**: Display images of the restaurant's interior, dishes, and events.
+- **Address**: Provide the restaurant's location and contact information.
 
-- Responsive design for all devices
-- Interactive menu with dynamic content
-- Contact information with working hours
-- Social media links integrated with icons
-- Smooth scrolling and animations
-- Easily customizable components and styles
+## Visit the App
 
-## Installation
-
-To get a local copy of the project up and running, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/grandeur-restaurant.git
-   cd grandeur-restaurant
+You can visit the deployed version of the Path Finder app [here](https://thepathfinder-10a2h6rka-shrey-karirias-projects.vercel.app)
